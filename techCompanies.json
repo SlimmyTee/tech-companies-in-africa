@@ -439,6 +439,15 @@
 
       "Industry": "FinTech"
     }
+    ],
+  "Lazerpay": [
+    {
+      "Company": "@lazerpay",
+
+      "Founders": "@njokuscript",
+
+      "Industry": "FinTech"
+    }
   ],
   "smartretailNG": [
     {
@@ -459,3 +468,11 @@
     }
   ]
 }
+ ],
+  "Zeddpay": [
+    {
+      "Company": "@Zeddpay",
+
+      "Founders": "@pleasant",
+
+      "Industry": "Fintech"
