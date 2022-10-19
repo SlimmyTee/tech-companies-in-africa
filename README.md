@@ -48,12 +48,6 @@
 
   - Industry: Edu Tech
 
-* Company: [abeg_app](https://abeg.app/profile/abegstore)
-
-  - Founder: [@dare___a](https://twitter.com/dare___a)
-
-  - Industry: FinTech
-
 * Company: [Africastalking](https://africastalking.com/)
 
   - Founders: [@sgikandi](https://twitter.com/sgikandi) +  Eston Kimani
@@ -396,8 +390,11 @@
   
 ## <a name="P"> </a>P
 
-- Company: [PiggyBankNG](https://www.piggyvest.com/)
- 
+* Company: [PiggyTech]
+
+ -Sub-Company:[Piggyvest](https://www.piggyvest.com/)
+              [Pocket by Piggyvest] (https://pocketapp.com/)
+              
   - Founders : [@OdunEweniyi](https://twitter.com/OdunEweniyi)
 
   - Industry: Savings infrastructure
